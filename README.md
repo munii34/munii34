@@ -11,7 +11,7 @@
 
 ## 🌷 About Me
 
-- 🌱 Currently learning **CSS** and soon **JavaScript**
+- 🌱 Currently learning **CSS** and **Php** **Sql** **JavaScript**
 - 💻 Started my journey in **Web Development**
 - 🎯 My future goals are learning:
   - Artificial Intelligence
@@ -24,7 +24,7 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,Sql,Php,js,vscode,github" />
 </p>
 
 
@@ -35,7 +35,9 @@
 
 - ✅ HTML  
 - 🌸 CSS  
-- ⏳ JavaScript  
+- 🌸 JavaScript
+- 🌸 Php
+- 🌸 Sql
 - 🚀 Future AI Developer  
 
 ---
